@@ -1,14 +1,14 @@
 
 
-<h1 align="center">Hi 👋, I'm Abhishekkumar4444</h1>
-<h3 align="center">A passionate fullstack developer having no Technical Background from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<h1 align="right">Hi 👋, I'm Abhishekkumar</h1>
+<h3 align="center">A passionate fullstack developer having no <span style="text-decoration:underline">Technical Background</span> from India</h3>
+<img align="right" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekkumar4444&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekkumar4444" /> </p>
 
 - 🔭 I’m currently working on **Backend**
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **Reactjs**
 
 - 👯 I’m looking to collaborate on **NetFlix**
 
