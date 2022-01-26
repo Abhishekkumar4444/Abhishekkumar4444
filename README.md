@@ -1,7 +1,7 @@
 
 
-<h1 align="right">Hi 👋, I'm Abhishekkumar</h1>
-<h3 align="left">A passionate fullstack developer having no <span style="color:red">Technical Background</span> from India</h3>
+<h1 align="center">Hi 👋, I'm Abhishekkumar</h1>
+<h3 align="center">A passionate fullstack developer having no <span color:"red">Technical Background</span> from India</h3>
 <img align="right" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekkumar4444&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekkumar4444" /> </p>
