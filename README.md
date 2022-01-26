@@ -2,6 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm Abhishekkumar4444</h1>
 <h3 align="center">A passionate fullstack developer having no Technical Background from India</h3>
+<img align="right" width ="400" src="https://www.google.com/search?q=animated+coding+gif&sxsrf=AOaemvK6LdHcgjLPdjdiW4BbrnuJ6oPdLw:1643194836264&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiT-ovkoc_1AhX1SGwGHcYSCHsQ_AUoAXoECAEQAw&biw=1197&bih=569&dpr=1.61#imgrc=Wc8B_rawxkspyM&imgdii=Ayen4SaK3vRduM"
+    alt="img">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekkumar4444&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekkumar4444" /> </p>
 
