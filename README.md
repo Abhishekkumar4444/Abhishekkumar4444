@@ -1,9 +1,7 @@
 
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-<h1 align="center">Hi 👋, I'm Abhishekkumar</h1>
-<h3 align="center">A passionate fullstack developer having no Technical Background from India</h3>
-<h3 align="center">My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. </h3>
-<h3 align="center">I take great care in the experience, architecture, and code quality of the things I build.</h3>
+<h1 align="center">Hi 👋, I'm Abhishek kumar</h1>
+<h5 align="center">A passionate fullstack developer having no Technical Background from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.I take great care in the experience, architecture, and code quality of the things I build.</h5>
 <img align="right" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekkumar4444&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekkumar4444" /> </p>
