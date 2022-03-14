@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [Abhishekkumar4444](Abhishekkumar4444)
 
-- 📝 I regularly write articles on [Abhishekkumar4444](Abhishekkumar4444)
+- 📝 I regularly write articles on [Abhishekkumar4444](https://medium.com/@ojhaabhi13)
 
 - 💬 Ask me about **Frontend**
 
