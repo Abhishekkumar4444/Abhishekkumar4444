@@ -47,4 +47,4 @@
 
 </br>
 <h3 align="left">Help the Indian occupant:</h3>
-<p><a href="https://www.buymeacoffee.com/wohumo"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="wohumo" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="wohumo" /></a></p><br><br>
