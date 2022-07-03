@@ -11,9 +11,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekkumar4444&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekkumar4444" /> </p>
 
-- 🔭 I’m currently working on **Backend**
+- 🔭 I’m currently working on **Social Media App**
 
-- 🌱 I’m currently learning **Reactjs**
+- 🌱 I’m currently learning **Nextjs/Nestjs**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
