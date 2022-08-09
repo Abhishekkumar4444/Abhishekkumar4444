@@ -47,5 +47,21 @@
 <a href="https://github.com/abhishekkumar4444/github-readme-activity-graph"><img alt="abhishekkumar4444" src="https://activity-graph.herokuapp.com/graph?username=abhishekkumar4444&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 </br>
+<br>
+    <div align="center">
+ 
+ ![github contribution grid snake animation](https://raw.githubusercontent.com/AkshatRastogi-1nC0re/AkshatRastogi-1nC0re/output/github-contribution-grid-snake-sissa.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/AkshatRastogi-1nC0re/AkshatRastogi-1nC0re/output/github-contribution-grid-snake-sissa-white.svg#gh-light-mode-only)
+  
+</div>
+<br>
+
+### Now Playing 🎧
+
+[![Spotify](https://novatorem-m84nrore7-developers.vercel.app/api/spotify)](https://open.spotify.com/user/Abhishekkumar4444)
+
+<img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png">
+<br>
+<br>
 <h3 align="left">Help the Indian occupant:</h3>
 <p><a href="https://www.buymeacoffee.com/"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="wohumo" /></a></p><br><br>
