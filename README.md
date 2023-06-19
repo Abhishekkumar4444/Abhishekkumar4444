@@ -30,9 +30,10 @@
 - ⚡ Fun fact **I think I do OverThink🤣🤣**
 
 <h3 align="left">Connect with me:</h3>
- <a href="https://finkedin.com/in/abhishekkumar4444">
+ <a href="https://linkedin.com/in/abhishekkumar4444">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
 </a>
+</br>
 [Abhishekkumar4444](Abhishekkumar4444)
 
 </br>
