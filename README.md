@@ -30,7 +30,7 @@ Overall, my role as a React Native developer at MindNerves Technology involves l
 
 - 📝 I regularly write articles on [Abhishekkumar4444](https://medium.com/@ojhaabhi13)
 
-- 💬 Ask me about **Frontend**
+- 💬 Ask me about **Frontend / React Native**
 
 - 📫 How to reach me **@github-Abhishekkumar4444**
 
