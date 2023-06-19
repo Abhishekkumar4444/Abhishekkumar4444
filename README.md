@@ -34,9 +34,7 @@
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
 </a>
 </br>
-[Abhishekkumar4444](Abhishekkumar4444)
 
-</br>
 <p align="left"><img width="99%" src="https://github-profile-trophy.vercel.app/?username=developer01234&row=1&theme=darkhub"/></p>
 
 <h3 align="left">Languages and Tools:</h3>
