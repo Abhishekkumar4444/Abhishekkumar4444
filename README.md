@@ -6,7 +6,16 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Abhishek+Kumar;+Welcome+to+My+Profile!;Always+learning+new+things!+;Webdevelopment+enthusiast!!+;)](https://git.io/typing-svg)  
 
 
-<h5 align="justify">A passionate fullstack developer having no Technical Background from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.I take great care in the experience, architecture, and code quality of the things I build.</h5>
+<h5 align="justify">A passionate React Native developer having no Technical Background from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.I take great care in the experience, architecture, and code quality of the things I build. In my current role at MindNerves Technology as a React Native developer, I am responsible for developing and maintaining mobile applications using React Native framework. I work closely with the UI/UX team to create visually appealing and user-friendly interfaces using React and other UI frameworks like Native Base.
+
+My day-to-day activities involve collaborating with cross-functional teams to gather requirements, design and implement features, and ensure the smooth integration of APIs. I am experienced in working with RESTful APIs and handling data fetching, data manipulation, and state management within the React Native ecosystem.
+
+At MindNerves, I contribute to the entire mobile app development lifecycle, from initial concept and design to implementation, testing, and deployment. I actively participate in code reviews, debugging, and troubleshooting to ensure high-quality and performant applications.
+
+Additionally, I stay updated with the latest trends and best practices in React Native development, continuously improving my skills and exploring new tools and technologies that can enhance the development process.
+
+Overall, my role as a React Native developer at MindNerves Technology involves leveraging my expertise in React, React Native, and API integration to create engaging and responsive mobile applications that meet client requirements and deliver a seamless user experience.
+</h5>
 <img align="center" alt="Coding" width="100%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekkumar4444&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekkumar4444" /> </p>
