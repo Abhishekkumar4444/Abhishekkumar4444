@@ -1,7 +1,7 @@
 
 <a align="center" href="https://github.com/Abhishekkumar4444/Abhishekkumar4444"><img width="500" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<!-- <h1 align="center">Hi 👋, I'm Abhishek kumar</h1> -->
+<!-- <h1 align="center">Hi 👋, I'm Avishek kumar</h1> -->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Abhishek+Kumar;+Welcome+to+My+Profile!;Always+learning+new+things!+;Webdevelopment+enthusiast!!+;)](https://git.io/typing-svg)  
 
