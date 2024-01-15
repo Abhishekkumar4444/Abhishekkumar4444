@@ -28,7 +28,7 @@ Overall, my role as a React Native developer at MindNerves Technology involves l
 
 - 👨‍💻 All of my projects are available at [Abhishekkumar4444](https://github.com/Abhishekkumar4444)
 
-- 📝 I regularly write articles on [Abhishekkumar4444](https://medium.com/@ojhaabhi13)
+- 📝 I regularly write articles on [Abhishekkumar4444](https://medium.com/@avishekkumaar)
 
 - 💬 Ask me about **Frontend / React Native**
 
