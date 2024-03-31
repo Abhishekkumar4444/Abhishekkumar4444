@@ -1,5 +1,10 @@
 
-<a align="center" href="https://github.com/Abhishekkumar4444/Abhishekkumar4444"><img width="500" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<div align="center">
+  <a href="https://github.com/Abhishekkumar4444/Abhishekkumar4444">
+    <img src="https://i.imgur.com/iXuL1HG.png" alt="GitHub" width="500" height="auto" style="max-width:100%;">
+  </a>
+</div>
+
 
 <!-- <h1 align="center">Hi 👋, I'm Avishek kumar</h1> -->
 
@@ -20,9 +25,9 @@ Overall, my role as a React Native developer at MindNerves Technology involves l
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekkumar4444&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekkumar4444" /> </p>
 
-- 🔭 I’m currently working on **Food Delivery App**
+- 🔭 I’m currently working on **Ecommmerce App**
 
-- 🌱 I’m currently learning **Nextjs/Nestjs**
+- 🌱 I’m currently learning **React-query**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
