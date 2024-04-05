@@ -25,7 +25,7 @@ Overall, my role as a React Native developer at MindNerves Technology involves l
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekkumar4444&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekkumar4444" /> </p>
 
-- 🔭 I’m currently working on **Ecommmerce App**
+- 🔭 I’m currently working on **E-commerce App**
 
 - 🌱 I’m currently learning **React-query**
 
