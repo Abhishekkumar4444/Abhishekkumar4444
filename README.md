@@ -60,9 +60,11 @@ Overall, my role as a React Native developer at MindNerves Technology involves l
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekkumar4444&theme=radical&show_icons=true&locale=en&layout=compact" alt="abhishekkumar4444" width="340" height="205"/></p>
 <span>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishekkumar4444&theme=radical&show_icons=true&locale=en" alt="abhishekkumar4444"  /></span>
 <hr>
+<a href="https://app.daily.dev/abhi4444"><img src="https://api.daily.dev/devcards/v2/i3LHCOoyVZ25zXzFSQIvL.png?type=default&r=k0a" width="356" alt="Abhishek Ojha's Dev Card"/></a>
 <br>
 ### Now Playing 🎧
 <br>
+
 
 [![Spotify](https://novatorem-m84nrore7-developers.vercel.app/api/spotify)](https://open.spotify.com/user/Abhishekkumar4444)
 
